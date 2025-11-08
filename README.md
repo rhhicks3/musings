@@ -1,3 +1,1 @@
-README
-
-This branch contains various musings.
+This branch contains various musings
